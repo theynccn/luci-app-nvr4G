@@ -1,0 +1,26 @@
+{
+	"luci-app-Nvr4G": {
+		"description": "Grant access to LuCI app Nvr4G-lite",
+		"read": {
+   			"cgi-io": [ "exec" ],
+    			"file": {
+				"/usr/share/Nvr4G-lite/Nvr4G.sh": [ "exec" ],
+				"/usr/share/Nvr4G-lite/detect.sh": [ "exec" ],
+				"/usr/share/Nvr4G-lite/check.gcom": [ "exec" ],
+				"/usr/share/Nvr4G-lite/info.gcom": [ "exec" ],
+				"/etc/modemdefine": [ "read" ],
+				"/etc/Nvr4G": [ "read" ],
+				"/sys/kernel/debug/usb/devices": [ "read" ]
+			},
+			"uci": [ "Nvr4G", "luci-app-Nvr4G-lite" ]
+		},
+		"write": {
+			"file": {
+				"/bin/cat": [ "exec" ],
+				"/etc/modemdefine": [ "write" ],
+				"/etc/Nvr4G": [ "write" ]
+			},
+			"uci": [ "Nvr4G", "luci-app-Nvr4G-lite" ]
+		}
+	}
+}

@@ -1,0 +1,120 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "NvrLte connection"
+msgstr "NvrLte信息"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "General Information"
+msgstr "基本信息"
+
+msgid "Modem Information"
+msgstr "模块信息"
+
+msgid "Cell / Signal Information"
+msgstr "蜂窝/信号信息"
+
+msgid "Technology"
+msgstr "网络制式"
+
+msgid "Operator"
+msgstr "运营商"
+
+msgid "Signal strength"
+msgstr "信号强度"
+
+msgid "Connection statistics"
+msgstr "连接统计"
+
+msgid "Modem type"
+msgstr "模块类型"
+
+msgid "Additional information"
+msgstr "附加信息"
+
+msgid "Revision / Firmware"
+msgstr "版本 / 固件"
+
+msgid "IP adress / Communication Port"
+msgstr "IP地址 / 通信端口"
+
+msgid "Chip Temperature"
+msgstr "芯片温度"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "Very good"
+msgstr "非常好"
+
+msgid "Good"
+msgstr "好"
+
+msgid "Weak"
+msgstr "弱"
+
+msgid "Very weak"
+msgstr "非常弱"
+
+msgid "Excellent"
+msgstr "优秀"
+
+msgid "Mid cell"
+msgstr "中部蜂窝"
+
+msgid "Cell edge"
+msgstr "蜂窝边缘"
+
+msgid "SIM status"
+msgstr "SIM卡状态"
+
+msgid "Not registered"
+msgstr "未注册"
+
+msgid "Registered"
+msgstr "已注册"
+
+msgid "Registered (roaming)"
+msgstr "已注册（漫游）"
+
+msgid "Searching.."
+msgstr "搜索中.."
+
+msgid "Registering denied"
+msgstr "注册被拒绝"
+
+msgid "Waiting to read data from the modem..."
+msgstr "等待读取调制解调器数据..."
+
+msgid "Waiting for connection data..."
+msgstr "等待连接数据..."
+
+msgid "BTS Search"
+msgstr "BTS搜索"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search BTS using Cell ID"
+msgstr "使用小区ID搜索BTS"
+
+msgid "Hint: To set up a BTS search engine, all you have to do is select the dedicated website for your location."
+msgstr "提示：要设置BTS搜索引擎，只需选择专用于您所在位置的网站即可。"
+
+msgid "BTS search settings"
+msgstr "BTS搜索设置"
+
+msgid "Website to search for BTS"
+msgstr "用于搜索BTS的网站"
+
+msgid "Select a website for searching."
+msgstr "选择用于搜索的网站。"
+
+msgid "SIM Slot"
+msgstr "SIM插槽"
+

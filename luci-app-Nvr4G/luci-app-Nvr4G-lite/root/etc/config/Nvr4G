@@ -1,0 +1,4 @@
+
+config Nvr4G
+	option device ''
+	option website 'http://www.btsearch.pl/szukaj.php?mode=std&search='
